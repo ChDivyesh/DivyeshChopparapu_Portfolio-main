@@ -38,7 +38,7 @@ export function TabsDemo() {
       content: (
         <div className="w-full overflow-hidden relative h-full rounded-2xl p-10 text-xl md:text-4xl font-bold text-white bg-gradient-to-br from-purple-700 to-violet-900">
           <p>Zomato-Food Delivery App</p>
-          <ImageContainer src="/images/zomato_landing.png" href="https://github.com/ChDivyesh/Zomato-Landing-page" />
+          <ImageContainer src="/images/zomato_landing.png" href="zomato-landing-page-gules-two.vercel.app" />
         </div>
       ),
     },
@@ -69,7 +69,7 @@ export function TabsDemo() {
       content: (
         <div className="w-full overflow-hidden relative h-full rounded-2xl p-10 text-xl md:text-4xl font-bold text-white bg-gradient-to-br from-purple-700 to-violet-900">
           <p>My Portfolio</p>
-          <ImageContainer src="/images/portfolio_div.png" href="https://dheeraj-atmakuri-portfolio.vercel.app/" />
+          <ImageContainer src="/images/portfolio_div.png" href="divyesh-intial-portfolio.vercel.app/" />
         </div>
       ),
     },
