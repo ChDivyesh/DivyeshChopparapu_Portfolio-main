@@ -38,7 +38,7 @@ export function TabsDemo() {
       content: (
         <div className="w-full overflow-hidden relative h-full rounded-2xl p-10 text-xl md:text-4xl font-bold text-white bg-gradient-to-br from-purple-700 to-violet-900">
           <p>Zomato-Food Delivery App</p>
-          <ImageContainer src="/images/zomato_landing.png" href="https://yumrocket-frontend.onrender.com/" />
+          <ImageContainer src="/images/zomato_landing.png" href="https://github.com/ChDivyesh/Zomato-Landing-page" />
         </div>
       ),
     },
@@ -48,7 +48,7 @@ export function TabsDemo() {
       content: (
         <div className="w-full overflow-hidden relative h-full rounded-2xl p-10 text-xl md:text-4xl font-bold text-white bg-gradient-to-br from-purple-700 to-violet-900">
           <p>BookMy Show-Movie App</p>
-          <ImageContainer src="/images/Bookmy_show.png" href="https://dheeraj-store.vercel.app/" />
+          <ImageContainer src="/images/Bookmy_show.png" href="https://github.com/ChDivyesh/Book-My-Show-clone" />
         </div>
       ),
     },
@@ -58,7 +58,7 @@ export function TabsDemo() {
       content: (
         <div className="w-full overflow-hidden relative h-full rounded-2xl p-10 text-xl md:text-4xl font-bold text-white bg-gradient-to-br from-purple-700 to-violet-900">
           <p>Zomato Food Delivery-Clone</p>
-          <ImageContainer src="/images/zomato-website.png" href="https://netflix-clone-dheeraj.vercel.app/login" />
+          <ImageContainer src="/images/zomato-website.png" href="https://github.com/ChDivyesh/Zomato-Master-Clone" />
         </div>
       ),
     },
@@ -81,7 +81,7 @@ export function TabsDemo() {
           <p>Freight Flow</p>
           <ImageContainer
             src="/images/Netflix_data_analysis_using_tableau.png"
-            href="https://public.tableau.com/views/Netflix_Data_Analysis_17184481523410/NETFLIXDataAnalysis?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"
+            href="https://github.com/ayush554/Freight_Flow_System/tree/DivyeshChopparapu"
           />
         </div>
       ),

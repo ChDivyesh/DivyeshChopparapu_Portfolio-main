@@ -5,6 +5,7 @@ import { TabsDemo } from "./components/TabsDemo";
 import { BackgroundBeamsDemo } from "./components/BackgroundBeamsDemo";
 import { CardHoverEffectDemo } from "./components/CardHoverEffectDemo";
 import { BackgroundGradientDemo } from "./components/BackgroundGradientDemo";
+import {LampDemo} from "./components/LampDemo";
 
 export default function Home() {
   return (
@@ -20,7 +21,8 @@ export default function Home() {
       <h2 className=" text-center text-xl md:text-4xl font-bold tex-black dark:text-white my-10 gap-10">Socials :</h2>
       </div>
       <CardHoverEffectDemo/>
-      <SpotlightPreview/>
+      <LampDemo/>
+
     </div>
   );
 }
